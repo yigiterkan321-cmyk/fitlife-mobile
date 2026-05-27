@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "name": "FitLife",
+    "slug": "fitlife-mobile",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "splash": { "backgroundColor": "#0E1116" },
+    "assetBundlePatterns": ["**/*"],
+    "ios": { "supportsTablet": true },
+    "android": { "package": "com.yigiterkan.fitlife" }
+  }
+}
